@@ -1,2 +1,9 @@
 # lemi_first_repo
-just to test local file is migtated to this repo
+
+```
+def abebe():
+  print("i found you")
+
+abebe();
+
+```
